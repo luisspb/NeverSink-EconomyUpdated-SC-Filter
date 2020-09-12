@@ -5693,7 +5693,7 @@ Show # %H4 $tier->t4upgrade $type->currency->prophecy
 	SetTextColor 159 15 213 255
 	SetBorderColor 159 15 213 255
 	SetBackgroundColor 0 0 0 255            # BORDERCOLOR:	 Prophecy UpgradeAndCouncil
-	PlayEffect White Temp
+	PlayEffect White
 	MinimapIcon 1 White Hexagon
 
 Show # %H3 $tier->t4drop $type->currency->prophecy
@@ -5703,7 +5703,7 @@ Show # %H3 $tier->t4drop $type->currency->prophecy
 	SetTextColor 159 15 213 255
 	SetBorderColor 159 15 213 255
 	SetBackgroundColor 0 0 0 255            # BORDERCOLOR:	 Neutral T1
-	PlayEffect White Temp
+	PlayEffect White
 	MinimapIcon 1 White Hexagon
 
 Show # %H3 $tier->t4 $type->currency->prophecy

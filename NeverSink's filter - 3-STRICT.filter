@@ -5030,7 +5030,7 @@ Show # %H3 %C3 $tier->t33 $type->currency
 	PlayEffect Brown
 	MinimapIcon 2 Brown Circle
 
-Hide # %H2 %C2 $tier->t41 $type->currency
+Show # %H2 %C2 $tier->t41 $type->currency
 	Class Currency
 	BaseType == "Alteration Shard" "Armourer's Scrap" "Transmutation Shard"
 	SetTextColor 170 158 130 220            # TEXTCOLOR:	 Currency Cosmetic 2
@@ -5039,7 +5039,7 @@ Hide # %H2 %C2 $tier->t41 $type->currency
 	PlayEffect Brown
 	MinimapIcon 2 Brown Circle
 
-Hide # %RF1 %H2 %C2 $tier->t42 $type->currency
+Show # %RF1 %H2 %C2 $tier->t42 $type->currency
 	Class Currency
 	BaseType == "Portal Scroll"
 	SetTextColor 170 158 130 220            # TEXTCOLOR:	 Currency Cosmetic 2
@@ -5048,7 +5048,7 @@ Hide # %RF1 %H2 %C2 $tier->t42 $type->currency
 	PlayEffect Brown
 	MinimapIcon 2 Brown Circle
 
-Hide # %RF1 %H2 %C2 $tier->t43 $type->currency
+Show # %RF1 %H2 %C2 $tier->t43 $type->currency
 	Class Currency
 	BaseType == "Scroll of Wisdom"
 	SetTextColor 170 158 130 220            # TEXTCOLOR:	 Currency Cosmetic 2
@@ -5400,7 +5400,7 @@ Show # %H4 %C4 $tier->t5 $type->currency->essences
 	PlayEffect Blue
 	MinimapIcon 2 Blue Circle
 
-Hide # %H2 %C4 $tier->t6 $type->currency->essences
+Show # %H2 %C4 $tier->t6 $type->currency->essences
 	Class Currency
 	BaseType "Muttering Essence of" "Whispering Essence of"
 	SetTextColor 170 158 130                # TEXTCOLOR:	 Currency Cosmetic
@@ -5801,7 +5801,7 @@ Show # %H4 %C5 $tier->t4 $type->divination
 	PlayEffect White Temp
 	MinimapIcon 2 White Triangle
 
-Hide # %H2 %C3 $tier->t5 $type->divination
+Show # %H2 %C3 $tier->t5 $type->divination
 	Class "Divination"
 	BaseType == "A Mother's Parting Gift" "Anarchy's Price" "Birth of the Three" "Call to the First Ones" "Cartographer's Delight" "Dark Temptation" "Death" "Destined to Crumble" "Dying Anguish" "Lantador's Lost Love" "Light and Truth" "Might is Right" "Prosperity" "Rain Tempter" "Rats" "Struck by Lightning" "The Archmage's Right Hand" "The Army of Blood" "The Blazing Fire" "The Carrion Crow" "The Coming Storm" "The Conduit" "The Deceiver" "The Demoness" "The Fathomless Depths" "The Golden Era" "The Harvester" "The Hermit" "The Incantation" "The Inoculated" "The King's Blade" "The Lich" "The Lord in Black" "The Lover" "The Lunaris Priestess" "The Metalsmith's Gift" "The Oath" "The Opulent" "The Rabid Rhoa" "The Ruthless Ceinture" "The Scarred Meadow" "The Sigil" "The Siren" "The Spoiled Prince" "The Sun" "The Surgeon" "The Twins" "The Warden" "The Watcher" "The Web" "The Witch" "The Wolf's Shadow" "Thunderous Skies" "Tranquillity" "Turn the Other Cheek"
 	SetTextColor 0 0 0 255                  # TEXTCOLOR:	 High Special Base
