@@ -3672,28 +3672,11 @@ Show # %D2 $type->rr $tier->t3bows-up
 	SetBorderColor 0 0 0                    # BORDERCOLOR:	 Neutral T1.5
 	SetBackgroundColor 0 0 0 219            # BACKGROUND:	 Neutral T4
 
-Show # %D2 %UP $type->rr $tier->t3bows
-	ItemLevel >= 65
-	DropLevel >= 60
-	Rarity Rare
-	Class "Bows"
-	SetTextColor 220 220 119 220            # TEXTCOLOR:	 T3 Rare
-	SetBorderColor 0 0 0                    # BORDERCOLOR:	 Neutral T1.5
-	SetBackgroundColor 0 0 0 219            # BACKGROUND:	 Neutral T4
-
 Show # %D1
 	ItemLevel >= 75
 	Rarity Rare
 	Class "Bows"
 	SetTextColor 255 190 0 255              # TEXTCOLOR:	 T3 Rare
-	SetBorderColor 0 0 0                    # BORDERCOLOR:	 Neutral T1.5
-	SetBackgroundColor 0 0 0 150            # BACKGROUND:	 Neutral T6
-
-Show # %D1 %UP
-	ItemLevel >= 65
-	Rarity Rare
-	Class "Bows"
-	SetTextColor 220 220 119 220            # TEXTCOLOR:	 T3 Rare
 	SetBorderColor 0 0 0                    # BORDERCOLOR:	 Neutral T1.5
 	SetBackgroundColor 0 0 0 150            # BACKGROUND:	 Neutral T6
 
@@ -3730,28 +3713,11 @@ Show # %D2 $type->rr $tier->t3quiver-up
 	SetBorderColor 0 0 0                    # BORDERCOLOR:	 Neutral T1.5
 	SetBackgroundColor 0 0 0 219            # BACKGROUND:	 Neutral T4
 
-Show # %D2 %UP $type->rr $tier->t3quiver
-	ItemLevel >= 65
-	Rarity Rare
-	Class "Quivers"
-	BaseType "Penetrating Arrow Quiver"
-	SetTextColor 220 220 119 220            # TEXTCOLOR:	 T3 Rare
-	SetBorderColor 0 0 0                    # BORDERCOLOR:	 Neutral T1.5
-	SetBackgroundColor 0 0 0 219            # BACKGROUND:	 Neutral T4
-
 Show # %D1
 	ItemLevel >= 75
 	Rarity Rare
 	Class "Quivers"
 	SetTextColor 255 190 0 255              # TEXTCOLOR:	 T3 Rare
-	SetBorderColor 0 0 0                    # BORDERCOLOR:	 Neutral T1.5
-	SetBackgroundColor 0 0 0 150            # BACKGROUND:	 Neutral T6
-
-Show # %D1 %UP
-	ItemLevel >= 65
-	Rarity Rare
-	Class "Quivers"
-	SetTextColor 220 220 119 220            # TEXTCOLOR:	 T3 Rare
 	SetBorderColor 0 0 0                    # BORDERCOLOR:	 Neutral T1.5
 	SetBackgroundColor 0 0 0 150            # BACKGROUND:	 Neutral T6
 
